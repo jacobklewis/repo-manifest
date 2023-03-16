@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-     <remote fetch="https://github.com/jacobklewis" name="jacobklewis">
+     <remote fetch="https://github.com/jacobklewis" name="jacobklewis"/>
 
      <project name="Flour" remote="jacobklewis" revision="master" path="tools/flour"/>
      <project name="Constantk" path="tools/constantk" revision="master" remote="jacobklewis"/>
